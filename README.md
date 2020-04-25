@@ -1,10 +1,12 @@
 # Docker challenges
 
+Challenges for learning [Docker](https://docker.com), a popular containerisation engine and management system.
+
 ## Docker Challenge 1
 
 __level 100:__
 
-Pick a Linux command line game (e.g. from this list https://linoxide.com/linux-how-to/linux-command-line-games/) and deploy it in a docker container. Hint - it need an interactive terminal! Share your code in your private GitHub repo.
+Pick a Linux command line game (e.g. [from this list](https://linoxide.com/linux-how-to/linux-command-line-games/) and deploy it in a docker container. Hint - it need an interactive terminal! Share your code in your private GitHub repo.
 
 ```bash
 cd challenge_1
